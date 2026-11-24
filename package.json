@@ -1,0 +1,11 @@
+{
+  "name": "@astrorace/ceres-protocol-spec",
+  "version": "1.0.0",
+  "description": "Reference TypeScript economic constants, M11 P2P clearing math, TGE vesting schedules, and PRD pity curves for The Ceres Protocol ($ATRC).",
+  "type": "module",
+  "homepage": "https://astrorace.app/docs/#tokenomics",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --experimental-strip-types --test test/protocol.test.ts"
+  }
+}

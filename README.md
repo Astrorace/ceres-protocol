@@ -7,7 +7,8 @@
 Reference TypeScript specification and verification suite for **ASTRORACE**'s fixed-supply token economy (`$ATRC`), `M11` peer-to-peer module marketplace clearing split, and Pseudo-Random Distribution (`PRD`) container pity guarantees.
 
 - **Official Website:** [https://astrorace.app](https://astrorace.app)
-- **Full Whitepaper & Docs:** [https://astrorace.app/docs/](https://astrorace.app/docs/)
+- **Token Network:** `BNB Chain (BEP-20)` *(Exclusively on BNB Chain)*
+- **Full Whitepaper & Docs:** [https://astrorace.gitbook.io/astrorace-docs/](https://astrorace.gitbook.io/astrorace-docs/) · [https://astrorace.app/docs/](https://astrorace.app/docs/)
 
 ---
 

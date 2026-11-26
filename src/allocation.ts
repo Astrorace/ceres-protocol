@@ -9,6 +9,7 @@ export interface AllocationPool {
   readonly linearVestingMonths: number;
 }
 
+export const ATRC_CHAIN = 'BNB Chain (BEP-20)' as const;
 export const ATRC_MAX_SUPPLY = 200_000_000 as const;
 export const ATRC_INITIAL_CIRCULATING_SUPPLY = 20_600_000 as const;
 export const ATRC_MINTING_DISABLED = true as const;
